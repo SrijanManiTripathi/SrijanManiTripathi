@@ -82,50 +82,50 @@ I'm a passionate developer who transforms ideas into reality through code. Let's
   </tr>
 </table>
 
-## 🔥 My Coding Stats
+## 🔥 My Coding Journey
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SrijanManiTripathi&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="GitHub Streak Stats" />
-</div>
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SrijanManiTripathi&show_icons=true&count_private=true&title_color=80ffdb&text_color=c8ffd4&icon_color=64ffda&bg_color=22272e&hide_border=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrijanManiTripathi&layout=compact&langs_count=7&title_color=80ffdb&text_color=c8ffd4&icon_color=4c71f2&bg_color=22272e&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-## 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrijanManiTripathi&theme=monokai" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/SrijanManiTripathi/github-readme-activity-graph">
-    <img alt="Srijan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SrijanManiTripathi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrijanManiTripathi&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrijanManiTripathi&theme=monokai" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrijanManiTripathi&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrijanManiTripathi&theme=monokai" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SrijanManiTripathi&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SrijanManiTripathi&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/SrijanManiTripathi/MONEY-MAESTRO">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SrijanManiTripathi&repo=MONEY-MAESTRO&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=979DA3&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SrijanManiTripathi&repo=MONEY-MAESTRO&theme=dark" />
   </a>
   <a href="https://github.com/SrijanManiTripathi/FOOD-DELIVERY-WEBSITE">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SrijanManiTripathi&repo=FOOD-DELIVERY-WEBSITE&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=979DA3&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SrijanManiTripathi&repo=FOOD-DELIVERY-WEBSITE&theme=dark" />
   </a>
 </div>
 
-## 🌟 Recent Activity
+## 💡 A Glimpse of My Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrijanManiTripathi/SrijanManiTripathi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrijanManiTripathi/SrijanManiTripathi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SrijanManiTripathi/SrijanManiTripathi/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,react,nodejs,mongodb,mysql,git,github,vscode" />
+</div>
 
 ## 🚩 Quick Overview
 
@@ -145,7 +145,7 @@ I'm a passionate developer who transforms ideas into reality through code. Let's
   <a href="https://www.instagram.com/srijan_mani_tripathi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.srijantripathi64@gmail.com">
+  <a href="mailto:srijantripathi64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SrijanManiTripathi">
